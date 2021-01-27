@@ -44,3 +44,8 @@ python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Ludwig-Maximilians-Uni
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Passau" Q704468
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Regensburg" Q574571
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Rostock" Q159895
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Ruhr-Universität Bochum" Q309948
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität des Saarlandes" Q700758
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Stuttgart" Q122453
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Eberhard Karls Universität Tübingen" Q153978
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Julius-Maximilians-Universität Würzburg" Q161976
