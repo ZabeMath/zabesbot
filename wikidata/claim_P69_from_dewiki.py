@@ -5,8 +5,6 @@ site = pywikibot.Site()
 repo = site.data_repository()
 category = sys.argv[1]
 uni = pywikibot.ItemPage(repo,sys.argv[2])
-cat = pywikibot.Category(site,category)
-gen = pagegenerators.CategorizedPageGenerator(cat)
 not_claim_when_claimed = [uni]
 if uni.claims:
     if 'P355' in uni.claims:
@@ -15,6 +13,8 @@ if uni.claims:
     if 'P527' in uni.claims:
         for subclaim in uni.claims['P527']:
             not_claim_when_claimed.append(subclaim.getTarget())
+cat = pywikibot.Category(site,category)
+gen = pagegenerators.CategorizedPageGenerator(cat)
 for page in gen:
     item = pywikibot.ItemPage.fromPage(page)
     b_claim = True
