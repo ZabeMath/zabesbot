@@ -1,3 +1,20 @@
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der KHK St. Gregorius Aachen" Q1287680
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Altdorf" Q880228
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Augsburg" Q616905
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Augsburg" Q616905
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Otto-Friedrich-Universität Bamberg" Q707272
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Bayreuth" Q702482
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Freien Universität Berlin" Q153006
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Humboldt-Universität zu Berlin" Q152087
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Pädagogischen Hochschule Berlin" Q1758259
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Technischen Universität Berlin" Q51985
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Rheinischen Friedrich-Wilhelms-Universität Bonn" Q152171
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Hochschule für Bildende Künste Braunschweig" Q879216
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Breslau" Q315658
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Heinrich-Heine-Universität Düsseldorf" Q317032
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der EBS Universität für Wirtschaft und Recht" Q316272
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Erfurt" Q702524
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Friedrich-Alexander-Universität Erlangen-Nürnberg" Q40025
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Goethe-Universität Frankfurt am Main" Q50662
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Albert-Ludwigs-Universität Freiburg" Q153987
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Greifswald" Q165528
