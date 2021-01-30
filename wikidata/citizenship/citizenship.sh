@@ -1,0 +1,1 @@
+python3 claim_citizenship_from_dewiki.py
