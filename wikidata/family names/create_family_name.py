@@ -187,7 +187,7 @@ latin_script = pywikibot.ItemPage(repo, "Q8229")
 claim2.setTarget(latin_script)
 item.addClaim(claim2)
 
-if len(sys.argv > 2):
+if len(sys.argv) > 2:
     criterion = pywikibot.Claim(repo, u'1013')
     different = pywikibot.ItemPage(repo, "Q27924673")
     criterion.setTarget(different)
