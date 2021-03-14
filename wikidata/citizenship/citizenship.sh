@@ -1,1 +1,3 @@
-python3 claim_citizenship_from_dewiki.py
+python3 claim_citizenship_from_dewiki.py Kategorie:Österreicher Q40
+python3 claim_citizenship_from_dewiki.py Kategorie:Schweizer Q39
+python3 claim_citizenship_from_dewiki.py Kategorie:Liechtensteiner Q347
