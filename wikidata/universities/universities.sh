@@ -1,3 +1,4 @@
+# Germany
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der KHK St. Gregorius Aachen" Q1287680
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Altdorf" Q880228
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Augsburg" Q616905
@@ -49,3 +50,20 @@ python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität des Saarl
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Stuttgart" Q122453
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Eberhard Karls Universität Tübingen" Q153978
 python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Julius-Maximilians-Universität Würzburg" Q161976
+
+# Austria
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Wien" Q165980
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Graz" Q622683
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Technischen Universität Wien" Q689400
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Technischen Universität Graz" Q689775
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität für Musik und darstellende Kunst Wien" Q686522
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität für Musik und darstellende Kunst Graz" Q875147
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Theresianischen Militärakademie" Q568705
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Innsbruck" Q875788
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Wirtschaftsuniversität Wien" Q278044
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Musik und Kunst Privatuniversität der Stadt Wien" Q876640
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Linz" Q682739
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität für künstlerische und industrielle Gestaltung Linz" Q1516259
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität Salzburg" Q27265
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Anton Bruckner Privatuniversität" Q461551
+python3 claim_P69_from_dewiki.py "Kategorie:Absolvent der Universität für Bodenkultur Wien" Q876520
