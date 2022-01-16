@@ -1,7 +1,7 @@
 import pywikibot
 from pywikibot import pagegenerators
 
-maximum = 10000
+maximum = 1000000
 stepsize =  10000
 numsteps = int(maximum / stepsize)
 
